@@ -1,0 +1,18 @@
+body
+{
+    color:rgb(255, 55, 88);
+    background-color: pink ;
+}
+
+.heading
+{
+    color:aliceblue;
+    background-color: yellow ;
+    width : 80% ;
+    font-size: 23px;
+}
+
+.name_of_object, #result_object_name , #result_object_accuracy
+{
+    color: orange;
+}
